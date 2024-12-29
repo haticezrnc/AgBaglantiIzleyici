@@ -28,7 +28,7 @@ Gereksinimler
  Adım 1: Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/AgBaglantiIzleyici.git
+git clone https://github.com/haticezrnc/AgBaglantiIzleyici.git
 cd AgBaglantiIzleyici
 
 Adım 2: Sanal Ortam Oluşturun 
